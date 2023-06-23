@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         WHU Gpa Calc
-// @namespace    https://jwgl.whu.edu.cn/cjcx/cjcx_cxDgXscj.html
+// @namespace    https://github.com/liaosunny123/WHUGpaCalc
 // @version      1.0.0
 // @description  WHU Gpa Calculator which will remove unrelated courses and calculate your gpa automatically.
 // @author       EpicMo
